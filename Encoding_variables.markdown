@@ -37,4 +37,5 @@ Possible classes like : {'cat' , 'Dog' }
 the same 'one-hot' encoding but , with some different in mathamtical . 
 الفرق انه بيفرض التصنيف التالت بإنه يقول لو مش التصنيف الاول ولا التاني يبقي التالت و بكده انا مش محتاج اعمل جدول للتصنيف التالت لذلك سمي بال 
 dummy encoding 
+
 ![alt text](image-1.png)
